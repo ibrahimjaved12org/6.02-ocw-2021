@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Resource1
-file: null
+file: /media/ocw-www-site/ce76b5e511e54031a05ee7493010c200_307996070_641685357328033_4563043392804034420_n.jpeg
 filetype: Image
 metadata:
   caption: ''
