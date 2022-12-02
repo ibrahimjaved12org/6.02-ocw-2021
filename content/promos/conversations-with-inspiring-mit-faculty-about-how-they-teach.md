@@ -1,7 +1,7 @@
 ---
 content_type: promos
 image:
-  content: ''
+  content: ce76b5e5-11e5-4031-a05e-e7493010c200
   website: ocw-www-site
 link_title: Listen now.
 link_url: https://chalk-radio.simplecast.com/
